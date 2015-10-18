@@ -22,7 +22,7 @@
 </div>
 
 <div id='wrap-main'>
-<div id='main-extended'>
+<div id='main'><article class="article1">
 <h1>Orbit-theme</h1>
 <p>A template with regions for webpages/frameworks built with PHP.</p>
 
@@ -36,10 +36,16 @@
 <p>Remember to give write rights to the css folder in order for stylephp to create the css file: <code>chmod 777 css</code></p>
  
 <p>Built by Carl Ramsell as a part of the phpmvc course at Blekinge Tekniska Högskola.</p>
+
+<p>Photos from the NASA Image Gallery.</p>
+
+<hr>
  
 <h3>License</h3>
  
 <p>This software is free software and carries a MIT license.</p>
+
+<hr>
 
 <h3>Use of external libraries</h3>
 
@@ -54,8 +60,9 @@
 
 <h4>The Semantic Grid System</h4>
 <p>* Website: <a href='http://tylertate.github.io/semantic.gs/'>http://tylertate.github.io/semantic.gs/</a></p>
+</article>
 </div>
-
+<div id='sidebar'><article class="article1"><img src='img/blastoff.jpg' alt='Rocket launch' width='100%'/></article></div>
 </div>
 
 <div id='footer'>

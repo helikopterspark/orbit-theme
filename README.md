@@ -10,6 +10,8 @@ Based on The Semantic Grid System.
 Remember to give write rights to the css folder in order for stylephp to create the css file: `chmod 777 css`
  
 Built by Carl Ramsell as a part of the phpmvc course at Blekinge Tekniska Högskola.
+
+Photos from the NASA Image Gallery.
  
 License 
 ------------------
@@ -32,7 +34,6 @@ with function autocompile by mosbth
 
 ### The Semantic Grid System
 * Website: http://tylertate.github.io/semantic.gs/
-
 
  
 Copyright (c) 2015 Carl Ramsell

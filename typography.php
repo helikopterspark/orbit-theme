@@ -22,9 +22,8 @@
 </div>
 
 <div id='wrap-main'>
-<div id='main'><?php include('includes/typography.html'); ?></div>
-<div id='sidebar'><?php include('includes/typography.html'); ?></div>
-
+<div id='main'><article class="article1"><?php include('includes/typography.html'); ?></article></div>
+<div id='sidebar'><article class="article1"><?php include('includes/typography.html'); ?></article></div>
 </div>
 
 <div id='footer'>
