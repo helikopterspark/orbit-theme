@@ -23,7 +23,7 @@
 
 <div id='wrap-main'>
 <div id='main'><article class="article1">
-<h1>Orbit-theme</h1>
+<h1>About the Orbit theme</h1>
 <p>A template with regions for webpages/frameworks built with PHP.</p>
 
 <p><a href='https://github.com/helikopterspark/orbit-theme'>Get the theme on github</a></p>
