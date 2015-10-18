@@ -62,7 +62,7 @@
 <p>* Website: <a href='http://tylertate.github.io/semantic.gs/'>http://tylertate.github.io/semantic.gs/</a></p>
 </article>
 </div>
-<div id='sidebar'><article class="article1"><img src='img/blastoff.jpg' alt='Rocket launch' width='100%'/></article></div>
+<div id='sidebar'><article class="article1"><img src='img/blastoff.jpg' alt='Rocket launch' width='275px;'/></article></div>
 </div>
 
 <div id='footer'>
