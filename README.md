@@ -1,7 +1,7 @@
-Orbit-theme
+Orbit theme
 ==================
  
-A template with regions for webpages/frameworks built with PHP.
+A template with regions for webpages/frameworks built with PHP and LESS.
 
 Demo here: http://www.student.bth.se/~carb14/phpmvc/orbit-theme/index.php
 
@@ -26,7 +26,7 @@ Use of external libraries
 The following external modules are included and subject to its own license.
 
 ### lessphp
-with function autocompile by mosbth
+with autocompile of LESS files by mosbth
 * Website: https://github.com/mosbth/stylephp
 
 ### Font-Awesome
