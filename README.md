@@ -1,11 +1,13 @@
 Orbit-theme
 ==================
  
-A template with regions for webpages and frameworks built with PHP.
+A template with regions for webpages/frameworks built with PHP.
+
+Demo here: http://www.student.bth.se/~carb14/phpmvc/orbit-theme/index.php
 
 Based on The Semantic Grid System.
 
-Remember to give write rights to the css folder in order for stylephp to work: chmod 777 css
+Remember to give write rights to the css folder in order for stylephp to create the css file: `chmod 777 css`
  
 Built by Carl Ramsell as a part of the phpmvc course at Blekinge Tekniska Högskola.
  
